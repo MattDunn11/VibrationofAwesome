@@ -1,2 +1,2 @@
-# Vibration of Awesome
-A high-vibe blog powered by Notion and Next.js.
+# Vibration of Awesome Blog
+This is the real dynamic blog powered by Notion + Next.js.
